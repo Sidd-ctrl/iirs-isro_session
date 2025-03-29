@@ -12,7 +12,7 @@ Key Learnings & Implementations:
 Tech Stack & Tools:
 Languages: Python
 
-Libraries: NumPy, Pandas, Matplotlib, TensorFlow, Scikit-learn
+Libraries: NumPy, Pandas, Matplotlib, TensorFlow, py-torch
 
 Platforms: Google Earth Engine, QGIS
 
